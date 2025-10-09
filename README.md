@@ -31,7 +31,7 @@
 ### 📈 Quick Stats:
 <div align="center">
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/janavi_1928/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/janavi_1928/)
 [![Problems Solved](https://img.shields.io/badge/Problems_Solved-400+-00C853?style=for-the-badge&logo=leetcode&logoColor=white)](#)
   
 </div>
