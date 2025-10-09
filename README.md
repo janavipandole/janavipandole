@@ -9,9 +9,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janavi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janavipandole)
 [![GSSoC’25](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square)](https://gssoc.girlscript.tech/)
-
-
-## 🔥 Featured Projects
-
-- [Favicon Wizard](https://github.com/janavi123/favicon-wizard) – Custom favicons for branding
-- [Letter Tile Possibilities](https://github.com/janavi123/letter-tile-cpp) – Optimized backtracking with edge case coverage
