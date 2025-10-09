@@ -1,4 +1,4 @@
-# Janavi-Pandole
+# Janavi Pandole
 # Hi, I'm Janavi 👋  
 🚀 GSSoC’25 Contributor | 🎨 UI/UX Crafter | 🧠 Algorithm Optimizer | 🌍 Open Source Advocate
 
