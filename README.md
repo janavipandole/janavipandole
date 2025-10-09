@@ -16,6 +16,17 @@
   <img src="https://komarev.com/ghpvc/?username=janavipandole&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </div>
 
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+- 🎓 Third-year Computer Science student (or customize with actual background)
+- 💡 Passionate about **AI**, **UI/UX Design**, and **Web Development**
+- 🔭 Currently building projects that blend design with intelligence
+- 🌱 Always learning and exploring new tech stacks
+- 💬 Love collaborating on meaningful ideas and open-source projects
 
 
 ![Janavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=radical)
