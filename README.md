@@ -59,7 +59,7 @@
 </table>
 
 <h5><i>Hacktoberfest Badges</i></h5>
-[![An image of @janavipandole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
+[![@janavipandole's Holopin board](https://holopin.io/api/user/board?user=janavipandole)](https://holopin.io/@janavipandole)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janavi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janavi-pandole-80a7b2290)
 [![GSSoC’25](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square)](https://gssoc.girlscript.tech/)
