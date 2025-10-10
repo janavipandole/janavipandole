@@ -1,4 +1,5 @@
-<!-- Enhanced GitHub Profile README with Visual Elements -->
+
+[![An image of @Abhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)<!-- Enhanced GitHub Profile README with Visual Elements -->
 
 <!-- Banner -->
 <div align="center">
@@ -62,7 +63,7 @@
 
 
 <h5><i>Hacktoberfest Badges</i></h5>
-
+[![An image of @Abhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
 
 <h2> 🔥 My Skills </h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janavi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janavi-pandole-80a7b2290)
