@@ -55,7 +55,7 @@
 </table>
 <h5><i>Hacktoberfest Badges</i></h5>
 
-[![An image of @Abhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Abhishek2634)](https://holopin.io/@Abhishek2634)
+[![An image of @Abhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
 
 <h2> 🔥 My Skills </h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janavi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janavi-pandole-80a7b2290)
