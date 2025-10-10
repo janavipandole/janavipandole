@@ -59,8 +59,7 @@
 </table>
 
 <h5><i>Hacktoberfest Badges</i></h5>
-[![An image of @Janavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
-
+[![An image of @janavipandole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
 
 <h2> 🔥 My Skills </h2>
   <!----------------- Frontend Section ------------------>
