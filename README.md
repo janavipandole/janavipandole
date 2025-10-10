@@ -43,5 +43,20 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+
+<h2><i>Opensource Badges🎖️</i></h2>
+<table >
+<h5><i>GSSOC(25) Badges</i></h5>	
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /></td>
+  </tr>
+</table>
+<h5><i>Hacktoberfest Badges</i></h5>
+
+[![An image of @Abhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Abhishek2634)](https://holopin.io/@Abhishek2634)
+
+<h2> 🔥 My Skills </h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janavi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janavi-pandole-80a7b2290)
 [![GSSoC’25](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square)](https://gssoc.girlscript.tech/)
