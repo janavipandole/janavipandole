@@ -1,11 +1,8 @@
-
 <!-- Enhanced GitHub Profile README with Visual Elements -->
-
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Janavi%20Pandole&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
-
 
 <!-- Typing Animation -->
 <div align="center">
