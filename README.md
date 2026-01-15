@@ -1,73 +1,96 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Janavi%20Pandole&fontSize=80&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Janavi%20Pandole&fontSize=80&fontColor=ffffff"/>
 </div>
 
-<!-- ===================== TYPING BIO ===================== -->
+<!-- ===================== TYPING ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=FFB6C1&center=true&vCenter=true&width=700&lines=AI+Research+Enthusiast;Frontend+%26+UI%2FUX+Designer;Open+Source+Contributor;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=FFB6C1&center=true&vCenter=true&width=700&lines=AI+Research+Enthusiast;Frontend+%26+UI%2FUX+Designer;Open+Source+Contributor;Turning+Ideas+Into+Reality"/>
 </div>
 
-<!-- ===================== PROFILE VIEWS ===================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=janavipandole&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=janavipandole&color=ff69b4&style=flat"/>
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-> *“The best way to predict the future is to invent it.”* — **Alan Kay**
-
-- 🎓 Third-year Computer Science student  
-- 💡 Passionate about **AI**, **UI/UX**, and **Web Development**  
-- 🔭 Currently building projects that blend **design + intelligence**  
-- 🌱 Constantly learning and exploring new tech  
-- 🤝 Happy to collaborate on open-source & meaningful ideas
+- 🎓 Third-year **Computer Science** student  
+- 💡 Passionate about **AI, UI/UX & Web Development**  
+- 🔭 Blending **design with intelligence**  
+- 🌱 Constant learner & open-source contributor  
 
 ---
 
-## 📊 Coding Stats
+## 🧠 Tech Stack
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/janavi_1928/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-400%2B-00C853?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,cpp,git,github,vscode,figma&theme=light"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Janavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janavipandole&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavipandole&layout=compact&theme=tokyonight" height="165"/>
 
 </div>
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+---
+
+## 🔥 GitHub Activity (Animated)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janavipandole&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/janavipandole">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavipandole&repo=REPO_NAME&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/janavipandole">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavipandole&repo=REPO_NAME&theme=tokyonight"/>
+</a>
+
+</div>
+
+🔁 **REPO_NAME ko apne best project ke naam se replace karna**
+
+---
+
+## ✍️ Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Coming soon...  
+<!-- BLOG-POST-LIST:END -->
+
+👉 (Baad me Medium / Dev.to connect karwa deta hoon)
 
 ---
 
 ## 🎖️ Open Source Achievements
 
-### GSSoC 2025 Badges
-
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="120"/>
-    </td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120"/></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120"/></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="120"/></td>
   </tr>
 </table>
 
@@ -94,10 +117,8 @@
 
 </div>
 
----
-
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ff9a9e&height=120&section=footer"/>
 </div>
-
 
