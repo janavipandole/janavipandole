@@ -61,7 +61,13 @@
 ---
 [![An image of @janavipandole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janavi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janavi-pandole-80a7b2290)
-[![GSSoC’25](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square)](https://gssoc.girlscript.tech/)
-[![WOCS 2025](https://img.shields.io/badge/LinkedIn-Janavi-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/janavi-pandole-80a7b2290](https://woc.codesocial.tech/))
-[![Hacktoberfest’25](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square)](https://hacktoberfest.com/)
+---
+## 🌐 Connect & Open Source
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janavi_Pandole-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janavi-pandole-80a7b2290)
+
+[![GSSoC 2025](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square)](https://gssoc.girlscript.tech/)
+
+[![WOCS 2025](https://img.shields.io/badge/WOCS-2025-purple?style=flat-square)](https://woc.codesocial.tech/)
+
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-ff69b4?style=flat-square&logo=hacktoberfest)](https://hacktoberfest.com/)
