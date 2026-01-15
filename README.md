@@ -35,34 +35,11 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavipandole&layout=compact&theme=tokyonight" height="165"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Activity (Animated)
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=janavipandole&theme=tokyo-night"/>
-
-</div>
-
----
-
-## ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/janavipandole">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavipandole&repo=Foodie&theme=tokyonight"/>
-</a>
 
 </div>
 
