@@ -1,9 +1,9 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Janavi%20Pandole&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Janavi%20Pandole&fontSize=80&fontColor=ffffff" width="100%"/>
 </div>
 
-<!-- ===================== TYPING ===================== -->
+<!-- ===================== TYPING BIO ===================== -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=FFB6C1&center=true&vCenter=true&width=700&lines=AI+Research+Enthusiast;Frontend+%26+UI%2FUX+Designer;Open+Source+Contributor;Turning+Ideas+Into+Reality" />
 </div>
@@ -15,21 +15,21 @@
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 <img align="right" width="380" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 > *“The best way to predict the future is to invent it.”* — **Alan Kay**
 
-- 🎓 Third-year **Computer Science** student  
+- 🎓 Third-year Computer Science student  
 - 💡 Passionate about **AI**, **UI/UX**, and **Web Development**  
-- 🔭 Building projects that blend **design + intelligence**  
-- 🌱 Constantly learning new technologies  
-- 💬 Love collaborating on **open-source & impactful ideas**
+- 🔭 Currently building projects that blend **design + intelligence**  
+- 🌱 Constantly learning and exploring new tech  
+- 🤝 Happy to collaborate on open-source & meaningful ideas
 
 ---
 
-## 📈 Coding Stats
+## 📊 Coding Stats
 
 <div align="center">
 
@@ -40,24 +40,22 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janavipandole&layout=compact&theme=radical)
+![Janavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janavipandole&layout=compact&theme=tokyonight)
 
 </div>
-
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 
 ---
 
-## 🎖️ Open Source Badges
+## 🎖️ Open Source Achievements
 
-<h4 align="center"><i>GSSoC 2025</i></h4>
+### GSSoC 2025 Badges
 
 <table align="center">
   <tr>
@@ -85,7 +83,7 @@
 
 ---
 
-## 🌐 Connect & Open Source
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -96,7 +94,9 @@
 
 </div>
 
-<!-- ===================== FOOTER ===================== -->
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ff9a9e&height=120&section=footer"/>
 </div>
+
