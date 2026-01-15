@@ -61,26 +61,10 @@
 <div align="center">
 
 <a href="https://github.com/janavipandole">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavipandole&repo=REPO_NAME&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/janavipandole">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavipandole&repo=REPO_NAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavipandole&repo=Foodie&theme=tokyonight"/>
 </a>
 
 </div>
-
-🔁 **REPO_NAME ko apne best project ke naam se replace karna**
-
----
-
-## ✍️ Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Coming soon...  
-<!-- BLOG-POST-LIST:END -->
-
-👉 (Baad me Medium / Dev.to connect karwa deta hoon)
 
 ---
 
