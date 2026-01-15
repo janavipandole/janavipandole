@@ -44,10 +44,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavipandole&layout=compact&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavipandole&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
 
 </div>
+
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 
